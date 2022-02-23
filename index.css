@@ -126,16 +126,16 @@
 	.ic_laptop_windows_24px {
 		overflow: visible;
 		position: absolute;
-		width: 48.69px;
-		height: 34.489px;
-		left: 122.755px;
+		width: 43.69px;
+		height: 29.489px;
+		left: 92.755px;
 		top: 0px;
 		transform: matrix(1,0,0,1,0,0);
 	}
 	#nyccoder {
 		opacity: 0.752;
 		left: 0px;
-		top: 13.252px;
+		top: 5.252px;
 		position: absolute;
 		overflow: visible;
 		width: 101px;
@@ -146,7 +146,7 @@
 		font-family: Silom;
 		font-style: normal;
 		font-weight: normal;
-		font-size: 20px;
+		font-size: 15x;
 		color: rgba(103,100,93,1);
 	}
 	#ic_pan_tool_24px {
@@ -156,9 +156,9 @@
 		filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.443));
 		overflow: visible;
 		position: absolute;
-		width: 22px;
-		height: 24px;
-		transform: translate(-209px, -39.748px) matrix(1,0,0,1,353.3057,66) rotate(-40deg);
+		width: 17px;
+		height: 19px;
+		transform: translate(-245px, -50.748px) matrix(1,0,0,1,353.3057,66) rotate(-40deg);
 		transform-origin: center;
 		left: 0px;
 		top: 0px;
@@ -170,9 +170,9 @@
 		filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.443));
 		overflow: visible;
 		position: absolute;
-		width: 22px;
-		height: 24px;
-		transform: translate(-209px, -39.748px) matrix(1,0,0,1,329,57.2483) rotate(39deg);
+		width: 17px;
+		height: 19px;
+		transform: translate(-239px, -39.748px) matrix(1,0,0,1,329,57.2483) rotate(39deg);
 		transform-origin: center;
 		left: 0px;
 		top: 0px;
